@@ -3,7 +3,7 @@
 
 ## Overview
 
-The Dynamic Data Cleaner is a web application built using Streamlit that leverages LangChain and Google Generative AI to automatically suggest and apply data cleaning steps to a CSV dataset. The application provides an intuitive interface to upload a dataset, receive recommendations on essential cleaning steps, and download the cleaned dataset.
+The Dynamic Data Cleaner is a web application built using Streamlit that leverages LangChain and Google Generative AI to test the ability of a LLM to automatically suggest and apply data cleaning steps to a CSV dataset. The application provides an intuitive interface to upload a dataset, receive recommendations on essential cleaning steps, and download the cleaned dataset.
 
 ## Features
 
